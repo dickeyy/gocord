@@ -59,5 +59,13 @@
   {
     "path": "files/components/embed.go.tmpl",
     "destination": "components/embed.go"
+  },
+  {
+    "path": "files/commands/handler.go.tmpl",
+    "destination": "commands/handler.go"
+  },
+  {
+    "path": "files/commands/ping.go.tmpl",
+    "destination": "commands/ping.go"
   }
 ]
