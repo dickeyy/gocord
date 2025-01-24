@@ -6,7 +6,11 @@ import (
 	"time"
 
 	"github.com/bwmarrin/discordgo"
+	"github.com/dickeyy/perpbot/components"
+	"github.com/dickeyy/perpbot/services"
+	"github.com/dickeyy/perpbot/utils"
 	"github.com/rs/zerolog/log"
+	"github.com/sgaunet/perplexity-go/v2"
 )
 
 func init() {
