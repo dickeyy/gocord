@@ -1,0 +1,18 @@
+[
+  {
+    "path": "files/README.md.tmpl",
+    "destination": "README.md"
+  },
+  {
+    "path": "files/main.go.tmpl",
+    "destination": "main.go"
+  },
+  {
+    "path": "files/go.mod.tmpl",
+    "destination": "go.mod"
+  },
+  {
+    "path": "files/.env.tmpl",
+    "destination": ".env"
+  }
+]
