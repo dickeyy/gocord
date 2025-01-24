@@ -1,0 +1,12 @@
+package components
+
+import (
+	"fmt"
+
+	"github.com/bwmarrin/discordgo"
+	"{{.ModulePath}}/config"
+)
+
+func ErrorEmbed(errMessage string) *discordgo.MessageEmbed {
+	return NewEmbed().SetDescription(fmt.Sprintf("%s%s", config.Bot.ErrMsgPrefix, errMessage)).SetColor("Error").MessageEmbed
+}

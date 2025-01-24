@@ -47,5 +47,17 @@
   {
     "path": "files/events/interaction_create.go.tmpl",
     "destination": "events/interaction_create.go"
+  },
+  {
+    "path": "files/components/handler.go.tmpl",
+    "destination": "components/handler.go"
+  },
+  {
+    "path": "files/components/error-embed.go.tmpl",
+    "destination": "components/error-embed.go"
+  },
+  {
+    "path": "files/components/embed.go.tmpl",
+    "destination": "components/embed.go"
   }
 ]
