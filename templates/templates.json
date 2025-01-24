@@ -27,5 +27,9 @@
   {
     "path": "files/services/discord.go.tmpl",
     "destination": "services/discord.go"
+  },
+  {
+    "path": "files/lib/cmd-run.go.tmpl",
+    "destination": "lib/cmd-run.go"
   }
 ]
