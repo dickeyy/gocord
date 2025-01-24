@@ -35,5 +35,17 @@
   {
     "path": "files/config/config.go.tmpl",
     "destination": "config/config.go"
+  },
+  {
+    "path": "files/events/handler.go.tmpl",
+    "destination": "events/handler.go"
+  },
+  {
+    "path": "files/events/ready.go.tmpl",
+    "destination": "events/ready.go"
+  },
+  {
+    "path": "files/events/interaction_create.go.tmpl",
+    "destination": "events/interaction_create.go"
   }
 ]
