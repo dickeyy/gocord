@@ -1,5 +1,5 @@
 ---
-description: Gocord Documentation
+description: What is gocord? Why does it exist?
 ---
 
 # Introduction
