@@ -31,5 +31,9 @@
   {
     "path": "files/lib/cmd-run.go.tmpl",
     "destination": "lib/cmd-run.go"
+  },
+  {
+    "path": "files/config/config.go.tmpl",
+    "destination": "config/config.go"
   }
 ]
