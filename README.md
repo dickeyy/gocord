@@ -5,7 +5,7 @@ An opinionated Discord bot framework for Go.
 To create a new bot, run the following commands:
 
 ```bash
-go install github.com/dickeyy/gocord/cmd/gocord@latest
+go install github.com/dickeyy/gocord@latest
 gocord -name <bot name> -module <go module path>
 ```
 
