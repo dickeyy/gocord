@@ -2,4 +2,5 @@
 
 ## Start Here
 
-* [Introduction](README.md)
+- [Introduction](README.md)
+- [Getting Started](getting-started.md)
